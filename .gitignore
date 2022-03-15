@@ -139,3 +139,5 @@ GitHub.sublime-settings
 # ekstra
 /admin/.dbdata
 /main/.dbdata
+/main/migrations
+/admin/products/migrations
